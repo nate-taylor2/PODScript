@@ -4,7 +4,7 @@ This program allows you to access OME using front-end html tags to interact with
 
 How to install:
 
-<b> 1. Download the repository </b>
+<b> 1. Download the Repository </b>
 
     Click on the green Code button and click on Download ZIP. Then, unzip the folder.
   
@@ -17,8 +17,8 @@ How to install:
     To install the dependencies:
       - Search 'Command Prompt' and press enter
           This will open the window where you will be running the code and installing dependencies.
-      - Type 'cd C:\Users\name\Downloads\SeleniumPOD-main\SeleniumPOD-main' REPLACE the path with the location of your download. No             quotation marks either.
-      - Type and press enter: 'pip install -r requirements.txt'
+      - Type 'cd C:\Users\name\Downloads\SeleniumPOD-main\SeleniumPOD-main' REPLACE the path with your folder path. No quotes.
+      - Type and press enter: 'pip install -r requirements.txt'. No quotes.
       
 <b> 3. Run the Program </b>
 
